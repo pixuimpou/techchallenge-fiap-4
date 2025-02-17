@@ -6,3 +6,4 @@ statsforecast
 statsmodels
 matplotlib
 prophet
+scikit-learn
